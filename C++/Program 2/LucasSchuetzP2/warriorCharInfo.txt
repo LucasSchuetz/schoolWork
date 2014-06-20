@@ -1,0 +1,5 @@
+Wilbur 1000 Shield_Bash
+Juggernaut 800 Gore
+30 55
+5 15
+200 350

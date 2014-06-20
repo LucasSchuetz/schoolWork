@@ -1,0 +1,5 @@
+Sarah 300 Fireball
+Wizard 280 Icicle
+5 20
+50 60
+60 100
